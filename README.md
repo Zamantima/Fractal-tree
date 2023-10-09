@@ -1,4 +1,5 @@
-# Fractal-treeDescription
+# Fractal-tree
+Description
 The Tree Drawing project is a Python program that uses the Turtle graphics library to create a beautiful and colorful tree structure. 
 The program generates a tree with branches of varying lengths and colors, resulting in a visually appealing natural scene.
 
